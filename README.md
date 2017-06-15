@@ -10,3 +10,4 @@ The 2017 Top 9 Animation Libraries List
 - [Hover.CSS](http://ianlunn.github.io/Hover/)
 - [Velocity.js](http://velocityjs.org/)
 - [AniJS](http://animejs.com/)
+
